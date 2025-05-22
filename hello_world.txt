@@ -1,0 +1,1 @@
+Hi everyone, I have officially made my first commit, push, fetch from my local computer to github. Yayy
